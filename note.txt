@@ -1,0 +1,4 @@
+first make project , app etc...
+make templates, view, url setup and stuffs 
+
+make login ...with authenticate, login, logout  from django.contrib.auth
